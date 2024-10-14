@@ -25,11 +25,11 @@ Caso não seja inserida o nome de nenhuma cidade ou se a mesma não existir o pr
 
 Esse projeto foi desenvolvido através do editor de códigos VSCode, e com as tecnologias citadas anteriormente. O funcionamento do programa conta com o navegador para "criar" uma página com o código HTML e seus estilos permitindo assim a manipulação do DOM com o JavaScript.
 
+Para instalação do VSCode visite o site https://code.visualstudio.com/
+
 O projeto depende da api Weather Api - OpenWeatherMap que fornece dados da previsão do tempo de determinadas localidades.
 
 Para consultar a página da API visite o site https://openweathermap.org/api
-
-Para instalação do VSCode visite o site https://code.visualstudio.com/
 
 ## 🔎 Status do Projeto
 
