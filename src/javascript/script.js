@@ -8,7 +8,7 @@ document.querySelector('#search').addEventListener('submit', async (ev) => {
     //     showAlert('Você precisa digitar o nome de uma cidade!')
     // }
 
-    const apiKey = '1368da4d4c86f2b2b27442c300f475c4'
+    const apiKey = "1368da4d4c86f2b2b27442c300f475c4"
     // encodeURI utilizado para questão dos acentos de cidades
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(cityName)}&appid=${apiKey}&units=metric&lang=pt_br`
 
